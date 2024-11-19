@@ -1,8 +1,5 @@
-# React + Vite
+# Notas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O design deste projeto não é responsivo porque, ao desenvolvê-lo, finalizei o layout para desktop utilizando o Tailwind CSS. Quando fui implementar as regras de responsividade, descobri que o Tailwind CSS segue o conceito de "mobile-first". Optei por manter o projeto como está, já que boa parte do design já havia sido desenvolvida com foco em telas de desktop.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Na próxima oportunidade, refarei este projeto aplicando os conceitos de mobile-first desde o início.
